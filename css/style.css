@@ -128,7 +128,7 @@ h4{
 	font-family: 'FontAwesome';
 }
 /* Banner Style */
-.carousel {
+.carousel-item {
 	margin-top: 50px;
 	max-height: 30%;
 }
